@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "ProductName": "Cam",
+    "price": "10000",
+    "image": "https://dt-pro.vn/upload/product/cam-my.jpg",
+    "quantity": "5"
+  },
+  {
+    "id": 2,
+    "ProductName": "Chuối",
+    "price": "12000",
+    "image": "https://images2.thanhnien.vn/zoom/700_438/Uploaded/hoangnam/2020_03_12/an-chuoi_HRWC.jpg",
+    "quantity": "5"
+  },
+  {
+    "id": 393243,
+    "ProductName": "Táo",
+    "image": "https://i.pinimg.com/originals/49/be/cd/49becd1c31a778fd22715f46a1515a6d.jpg",
+    "price": 12000,
+    "quantity": 9
+  }
+]
